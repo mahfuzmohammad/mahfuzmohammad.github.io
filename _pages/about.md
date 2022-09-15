@@ -16,3 +16,17 @@ Recent News
 ======
 - Sep 14, 2022: Paper accepted at **Brain Communications**.
 - Aug 27, 2022: I have received **IEEE TMI Distinguished Reviewer—Silver Level** from IEEE Transactions on Medical Imaging.
+
+Recent Blog Posts
+======
+
+<ul>
+{% for post in site.posts %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <li id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</li>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
+</ul>
