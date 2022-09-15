@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Md Mahfuzur Rahman Siddiquee | Medical Imaging, Computer Vision, Deep Learning Researcher"
+title: "Md Mahfuzur Rahman Siddiquee"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
