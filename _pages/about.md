@@ -14,4 +14,5 @@ My complete CV is available [here](/cv). You can also download my CV in pdf form
 
 Recent News
 ======
+- Sep 14, 2022: Paper accepted at **Brain Communications**
 - Aug 27, 2022: I have received **IEEE TMI Distinguished Reviewer—Silver Level** from IEEE Transactions on Medical Imaging.
