@@ -20,7 +20,9 @@ Recent News
 Recent Blog Posts
 ======
 
-<ul>
+Coming soon!
+
+<!-- <ul>
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
@@ -28,4 +30,4 @@ Recent Blog Posts
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
-</ul>
+</ul> -->
