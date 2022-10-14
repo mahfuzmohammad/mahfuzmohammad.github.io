@@ -14,6 +14,8 @@ My complete CV is available [here](/cv). You can also download my CV in pdf form
 
 Recent News
 ======
+- Sep 22, 2002: Won 1st prize @ MICCAI HECKTOR segmentation challenge. [more](https://www.linkedin.com/posts/md-mahfuzur-rahman-siddiquee_miccai2022-nvidia-nvauto-activity-6978625582016135169-0R48?utm_source=share&utm_medium=member_desktop)
+- Sep 18, 2022: Won 2x 2nd prizes and 1x 3rd prize @ MICCAI Segmentation Challenges. [more](https://www.linkedin.com/posts/md-mahfuzur-rahman-siddiquee_miccai2022-nvidia-nvauto-activity-6978625582016135169-0R48?utm_source=share&utm_medium=member_desktop)
 - Sep 14, 2022: Paper accepted at **Brain Communications**.
 - Aug 27, 2022: I have received **IEEE TMI Distinguished Reviewer—Silver Level** from IEEE Transactions on Medical Imaging.
 
