@@ -19,12 +19,7 @@ Recent News
 - Sep 14, 2022: Paper accepted at **Brain Communications**.
 - Aug 27, 2022: I have received **IEEE TMI Distinguished Reviewer—Silver Level** from IEEE Transactions on Medical Imaging.
 
-From Twitter
-======
-
-<div class='jekyll-twitter-plugin' align="center">
-    {% twitter https://twitter.com/mahfuzbd maxwidth=500 limit=5 %}
-</div>
+<a class="twitter-timeline" data-height="500" href="https://twitter.com/mahfuzbd?ref_src=twsrc%5Etfw">Tweets by mahfuzbd</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 Recent Blog Posts
