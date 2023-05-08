@@ -16,7 +16,7 @@ Recent News
 ======
 - Sep 22, 2022: Won 1st prize @ MICCAI HECKTOR segmentation challenge. [more](https://www.linkedin.com/posts/md-mahfuzur-rahman-siddiquee_miccai2022-nvidia-nvauto-activity-6978625582016135169-0R48?utm_source=share&utm_medium=member_desktop)
 - Sep 18, 2022: Won 2x 2nd prizes and 1x 3rd prize @ MICCAI Segmentation Challenges. [more](https://www.linkedin.com/posts/md-mahfuzur-rahman-siddiquee_miccai2022-nvidia-nvauto-activity-6978625582016135169-0R48?utm_source=share&utm_medium=member_desktop)
-- Sep 14, 2022: Paper accepted at **Brain Communications**.
+- Sep 14, 2022: Published a paper on Headache classification and automatic biomarker extraction at **Brain Communications** [link](https://academic.oup.com/braincomms/article/5/1/fcac311/6849385).
 - Aug 27, 2022: I have received **IEEE TMI Distinguished Reviewer—Silver Level** from IEEE Transactions on Medical Imaging.
 
 <a class="twitter-timeline" data-height="500" href="https://twitter.com/mahfuzbd?ref_src=twsrc%5Etfw">Tweets by mahfuzbd</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
