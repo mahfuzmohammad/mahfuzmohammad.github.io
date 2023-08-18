@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website. I am a <u>Computer Science Ph.D.</u> candidate at <u>Arizona State University</u>, and a research assistant at <u>ASU-Mayo Center for Innovative Imaging</u> ([AMCII](https://amcii.asu.edu/)). My research interests lie in developing computer vision methods for medical image analysis—including but not limited to the tasks of supervised, weakly-supervised, self-supervised, and unsupervised lesion segmentation, detection, and classification. I serve as a reviewer in many conferences and journals in my field. I have received <u>IEEE TMI Distinguished Reviewer—Bronze Level</u> and <u>IEEE TMI Distinguished Reviewer—Silver Level</u> awards from <u>IEEE Transactions on Medical Imaging</u> and <u>Certificate of Outstanding Contribution in Reviewing</u> from the <u>Journal of Biomedical Informatics</u>. I also worked as <u>Applied Research Intern (Medical Imaging)</u> at <u>NVIDIA</u> during the summer of 2021 and 2022.
 
-My complete CV is available [here](/files/CV_md_mahfuzur.pdf).
+My résumé is available [here](/files/Resume_mahfuz.pdf) and complete CV is available [here](/files/CV_md_mahfuzur.pdf).
 
 Recent News
 ======
