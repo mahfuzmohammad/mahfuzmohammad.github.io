@@ -14,7 +14,7 @@ My résumé is available [here](/files/Resume_mahfuz.pdf) and complete CV is ava
 
 Recent News
 ======
-- Aug 22, 2023: Paper Accepted @ WACV 2024. [Preprint]([Preprint](https://arxiv.org/abs/2302.09200))
+- Aug 22, 2023: Paper Accepted @ WACV 2024. [Preprint](https://arxiv.org/abs/2302.09200)
 - Sep 22, 2022: Won 1st prize @ MICCAI HECKTOR segmentation challenge. [more](https://www.linkedin.com/posts/md-mahfuzur-rahman-siddiquee_miccai2022-nvidia-nvauto-activity-6978625582016135169-0R48?utm_source=share&utm_medium=member_desktop)
 - Sep 18, 2022: Won 2x 2nd prizes and 1x 3rd prize @ MICCAI Segmentation Challenges. [more](https://www.linkedin.com/posts/md-mahfuzur-rahman-siddiquee_miccai2022-nvidia-nvauto-activity-6978625582016135169-0R48?utm_source=share&utm_medium=member_desktop)
 - Sep 14, 2022: Published a paper on Headache classification and automatic biomarker extraction at **Brain Communications** [link](https://academic.oup.com/braincomms/article/5/1/fcac311/6849385).
