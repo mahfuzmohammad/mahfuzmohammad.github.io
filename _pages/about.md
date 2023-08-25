@@ -37,3 +37,11 @@ Coming soon!
   {% include archive-single.html %}
 {% endfor %}
 </ul> -->
+
+Recent Clicks
+======
+
+{% include instagram.html id="CwNXuJfr3BN" %}
+
+
+<script async src="//www.instagram.com/embed.js"></script>
